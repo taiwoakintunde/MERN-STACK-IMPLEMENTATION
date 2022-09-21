@@ -1,4 +1,3 @@
-# Project3
 **MERN STACK IMPLEMENTATION**
 1. Update ubuntu
 `sudo apt update`
